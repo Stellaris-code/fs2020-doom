@@ -23,3 +23,6 @@ Controls are as follows:
 Controls are defined in the code and are "easily" remapped through modifiying the doom/doomgeneric_fs2020.cpp file.
 
 All game features are working (such as save files), with the exception of sound and music.
+
+
+The code is based upon doomgeneric (https://github.com/ozkl/doomgeneric).
